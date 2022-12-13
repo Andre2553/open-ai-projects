@@ -7,9 +7,7 @@ export default function Home() {
       <Head>
         <title>Home | OpenAI Projects</title>
       </Head>
-      <main>
-        <h1>OpenAI Projects</h1>
-      </main>
+      <main></main>
     </>
   );
 }
